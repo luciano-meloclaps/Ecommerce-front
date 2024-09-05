@@ -30,7 +30,6 @@
   font-style: italic;
 }
 
-
 /* Responsive */
 @media only screen and (max-width: 480px) {
   .hero-overlay h1 {
